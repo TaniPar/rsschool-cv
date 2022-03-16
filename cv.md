@@ -24,7 +24,8 @@ I'm a beginner at:
 - JavaScript (Basic)
 
 ## Code example
-```function multipli(x, y) {
+```
+  function multipli(x, y) {
     return x*y;
    }
   
