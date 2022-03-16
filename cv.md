@@ -22,4 +22,14 @@ I'm a beginner at:
 - CSS
 - Git
 - JavaScript (Basic)
+## Code example
+```
+function multipli(x, y) {
+    return x*y;
+  }
+  
+let result = multipli(5, 3);
+console.log(result);
+
+```   
 
