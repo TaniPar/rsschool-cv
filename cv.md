@@ -35,7 +35,7 @@ console.log(result);
 ## Experience
 I have just started my way in studying profession.
 ## Education
-**University:** Belarusian State University of Informatics and Radioelectronics, Civil Multichannel telecommunication systems.
+**University:** Belarusian State University of Informatics and Radioelectronics, Multichannel telecommunication systems.
 
 **Courses:** The Rolling Scopes School "JavaScript / Front-end. Stage 0"
 
